@@ -114,8 +114,8 @@
 <div class="jumbotron">
  
   <h1 align="center" style="color: #A0E6FC">Random Quotes</h1>
-  <h1>hello sam this is test 1</h1>
-  <h2>sachitha hirushan</h2>
+  <h1>hello sam this is a test</h1>
+  <h2>Dumidu Kasun</h2>
   <hr width="95%" align="center"><br>
   <h3 id="quote" align="center"></h3><br>
   <div class="row">
