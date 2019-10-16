@@ -129,7 +129,7 @@
   
 	<div  align="left" class="col-xs-4">
   		<br>
-   		<h4>by <a href="https://codepen.io/Sandali/">Sandali</a></h4>
+   		<h4>by <a href="https://codepen.io/Dumidu/">Dumidu</a></h4>
     </div>
     <div class="col-xs-4"></div>
 	<div align="right" class="col-xs-4">
